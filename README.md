@@ -2,32 +2,7 @@
   <img src="https://github.com/tldraw/tldraw/raw/main/assets/card-repo.png"/>
 </div>
 
-![A screenshot of the tldraw web app](./assets/screenshot.png)
-
-Welcome to the [tldraw](https://tldraw.com) monorepo.
-
-🙌 Questions? Join the [Discord channel](https://discord.gg/SBBEVCA4PG) or start a [discussion](https://github.com/tldraw/tldraw/discussions/new).
-
-💕 Love this project? Consider [becoming a sponsor](https://github.com/sponsors/steveruizok?frequency=recurring&sponsor=steveruizok).
-
-Thanks to our corporate sponsors:
-
-<div style="display: flex; flex-wrap: wrap; gap: 32px;">
-<a href="https://sentry.io"><img src="./assets/sentry.svg"></img></a>
-
-<a href="https://vercel.com/?utm_source=team-slug&utm_campaign=oss"><img src="./assets/vercel.svg"></img></a>
-
-<a href="https://oppizi.com"><img src="./assets/oppizi.png" width="212"></img></a>
-
-<a href="https://logseq.com"><img src="./assets/logseq.svg" width="80"></img></a>
-
-<a href="https://blindsidenetworks.com/"><img src="./assets/blindside.png" width="212"></img></a>
-
-<a href="https://www.100ms.live/"><img src="./assets/100ms.png" width="212"></img></a>
-
-</div>
-
-...and to our [individual sponsors](https://github.com/sponsors/steveruizok#sponsors)!
+This repository contains the source code for the **original version of tldraw**. The original app is hosted at [old.tldraw.com](https://old.tldraw.com).
 
 ## Contents
 
