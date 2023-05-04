@@ -1,4 +1,5 @@
-> **Note** We're between versions! The code in this repository is for the **original version** of tldraw, which is hosted at [old.tldraw.com](https://old.tldraw.com). The new version (hosted at [tldraw.com](https://tldraw.com)) is not yet open source. It is _distributed_ however, and you can read more about the new version on **the new docs site** at [docs.tldraw.dev](https://docs.tldraw.dev). This should all be cleaned up soon. 🚧 
+> **Note**<br>
+The code in this repository is for the **original version** of tldraw, which is hosted at [old.tldraw.com](https://old.tldraw.com). The code for the **new version** (hosted at [tldraw.com](https://tldraw.com)) can be found in the main [tldraw repo](https://github.com/tldraw/tldraw).
 
 ---
 
