@@ -4,7 +4,7 @@ The code in this repository is for the **original version** of tldraw, which is 
 ---
 
 <div style="text-align: center; transform: scale(.5);">
-  <img src="https://github.com/tldraw/tldraw/raw/main/assets/card-repo.png"/>
+  <img src="https://github.com/tldraw/tldraw-v1/raw/main/assets/card-repo.png"/>
 </div>
 
 This repository contains the source code for the **original version of tldraw**. The original app is hosted at [old.tldraw.com](https://old.tldraw.com).
@@ -13,19 +13,19 @@ This repository contains the source code for the **original version of tldraw**.
 
 This repository is a monorepo containing two packages:
 
-- [**packages/tldraw**](https://github.com/tldraw/tldraw/tree/main/packages/tldraw) contains the source for the [@tldraw/tldraw](https://www.npmjs.com/package/@tldraw/tldraw) package. This is an editor as a React component named `<Tldraw>`. You can use this package to embed the tldraw editor in any React application.
-- [**packages/core**](https://github.com/tldraw/tldraw/tree/main/packages/core) contains the source for the [@tldraw/core](https://www.npmjs.com/package/@tldraw/core) package. This is a renderer for React components in a canvas-style UI. It is used by `@tldraw/tldraw` as well as several other projects.
+- [**packages/tldraw**](https://github.com/tldraw/tldraw-v1/tree/main/packages/tldraw) contains the source for the [@tldraw/tldraw](https://www.npmjs.com/package/@tldraw/tldraw) package. This is an editor as a React component named `<Tldraw>`. You can use this package to embed the tldraw editor in any React application.
+- [**packages/core**](https://github.com/tldraw/tldraw-v1/tree/main/packages/core) contains the source for the [@tldraw/core](https://www.npmjs.com/package/@tldraw/core) package. This is a renderer for React components in a canvas-style UI. It is used by `@tldraw/tldraw` as well as several other projects.
 
 ...and two apps:
 
-- [**apps/www**](https://github.com/tldraw/tldraw/tree/main/apps/www) contains the source for the [tldraw.com](https://tldraw.com) website.
-- [**apps/vscode**](https://github.com/tldraw/tldraw/tree/main/apps/vscode) contains the source for the [tldraw VS Code extension](https://marketplace.visualstudio.com/items?itemName=tldraw-org.tldraw-vscode).
+- [**apps/www**](https://github.com/tldraw/tldraw-v1/tree/main/apps/www) contains the source for the [tldraw.com](https://tldraw.com) website.
+- [**apps/vscode**](https://github.com/tldraw/tldraw-v1/tree/main/apps/vscode) contains the source for the [tldraw VS Code extension](https://marketplace.visualstudio.com/items?itemName=tldraw-org.tldraw-vscode).
 
 ...and three examples:
 
-- [**examples/core-example**](https://github.com/tldraw/tldraw/tree/main/examples/core-example) is a simple example for `@tldraw/core`.
-- [**examples/core-example-advanced**](https://github.com/tldraw/tldraw/tree/main/examples/core-example-advanced) is a second example for `@tldraw/core`.
-- [**examples/tldraw-example**](https://github.com/tldraw/tldraw/tree/main/examples/tldraw-example) is an example for `@tldraw/tldraw`.
+- [**examples/core-example**](https://github.com/tldraw/tldraw-v1/tree/main/examples/core-example) is a simple example for `@tldraw/core`.
+- [**examples/core-example-advanced**](https://github.com/tldraw/tldraw-v1/tree/main/examples/core-example-advanced) is a second example for `@tldraw/core`.
+- [**examples/tldraw-example**](https://github.com/tldraw/tldraw-v1/tree/main/examples/tldraw-example) is an example for `@tldraw/tldraw`.
 
 ## Discussion
 
@@ -37,7 +37,7 @@ Interested in contributing? See the [contributing guide](/CONTRIBUTING.md).
 
 ## Support
 
-Need help? Please [open an issue](https://github.com/tldraw/tldraw/issues/new) for support.
+Need help? Please [open an issue](https://github.com/tldraw/tldraw-v1/issues/new) for support.
 
 ## License
 
