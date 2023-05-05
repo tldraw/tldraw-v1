@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: tldraw Beta
-    url: https://github.com/tldraw/tldraw-beta/issues/new
-    about: Is your issue for the tldraw beta? Report it on the beta repo instead.
+  - name: New tldraw
+    url: https://github.com/tldraw/tldraw/issues/new
+    about: Is your issue for the new tldraw? Report it on the new repo instead.
