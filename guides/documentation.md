@@ -34,6 +34,7 @@ The `Tldraw` React component is the [tldraw](https://tldraw.com) editor exported
 | `onSaveProject`   | `Function`   | Called when the user saves a project through the menu or through a keyboard shortcut.                     |
 | `onSaveProjectAs` | `Function`   | Called when the user saves a project as a new project through the menu or through a keyboard shortcut.    |
 | `onOpenProject`   | `Function`   | Called when the user opens new project through the menu or through a keyboard shortcut.                   |
+| `component`       | `Object`     | Component option to set the custom component style such as cursor style.                                  |
 
 > **Note**: For help with the file-related callbacks, see `useFileSystem`.
 
