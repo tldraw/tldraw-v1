@@ -1,14 +1,16 @@
+
+<div style="text-align: center; transform: scale(.5);">
+  <img src="https://github.com/tldraw/tldraw-v1/raw/main/assets/card-repo.png"/>
+</div>
+
+---
+
 > **Note**<br>
 The code in this repository is for the **original version** of tldraw, which is hosted at [old.tldraw.com](https://old.tldraw.com). The code for the **new version** (hosted at [tldraw.com](https://tldraw.com)) can be found in the main [tldraw repo](https://github.com/tldraw/tldraw).
 
 **🙋‍♂️ As of 2024, this version is no longer actively maintained.**
 
 ---
-
-<div style="text-align: center; transform: scale(.5);">
-  <img src="https://github.com/tldraw/tldraw-v1/raw/main/assets/card-repo.png"/>
-</div>
-
 
 ## Contents
 
