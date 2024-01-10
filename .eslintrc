@@ -5,7 +5,6 @@
     "tsconfigRootDir": "__dirname",
     "project": [
       "./apps/*/tsconfig.json",
-      "./apps/vscode/*/tsconfig.json",
       "./packages/*/tsconfig.json"
     ]
   },

@@ -20,7 +20,6 @@ This repository is a monorepo containing two packages:
 ...and two apps:
 
 - [**apps/www**](https://github.com/tldraw/tldraw-v1/tree/main/apps/www) contains the source for the [tldraw.com](https://tldraw.com) website.
-- [**apps/vscode**](https://github.com/tldraw/tldraw-v1/tree/main/apps/vscode) contains the source for the [tldraw VS Code extension](https://marketplace.visualstudio.com/items?itemName=tldraw-org.tldraw-vscode).
 
 ...and three examples:
 

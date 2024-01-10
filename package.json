@@ -12,7 +12,6 @@
   "workspaces": [
     "packages/*",
     "apps/*",
-    "apps/vscode/*",
     "examples/*"
   ],
   "scripts": {
